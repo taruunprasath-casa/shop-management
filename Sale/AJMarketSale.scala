@@ -18,7 +18,7 @@ class AJMarketSale(var productId: Int, var quantity: Int){
  }   
 }
 
-case class Sale(productId: Int, quantity: Int)
+case class Sale(productId: Int, quantity: Int, price: Double = 0.0)
 
 object AJMarketSale {
 
@@ -27,8 +27,8 @@ object AJMarketSale {
       .split(';')
       .toList
       .map { item =>
-        val Array(id, qty) = item.split('|').map(_.toInt)
-        Sale(id, qty)
+        val Array(id, qty, price) = item.split('|').map(_.toInt)
+        Sale(id, qty, price = 0.0) 
       }
   }
 }

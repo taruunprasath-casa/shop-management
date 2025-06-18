@@ -1,11 +1,10 @@
 package Bill
-
 import scala.collection.mutable
 
 class Product(val productId: Int, val productName: String, var quantity: Int, val price: Double)
-case class Sale(productId: Int, quantity: Int)
+case class Sale(productId: Int, quantity: Int, price: Double = 0.0)
 
-class AJMarketBill(sales:Array[Sale], inventory: mutable.Map[Int, Product]) {
+class AJMarketBill(sales: Seq[Sale], inventory: mutable.Map[Int, Product]) {
   def printBill(): Unit = {
     var totalAmount = 0.0
     println("== Bill ==")

@@ -1,3 +1,16 @@
+error id: file://<WORKSPACE>/AJMarketApp.scala:`<none>`.
+file://<WORKSPACE>/AJMarketApp.scala
+empty definition using pc, found symbol in pc: `<none>`.
+semanticdb not found
+empty definition using fallback
+non-local guesses:
+	 -Inventory.AJMarketInventory#
+	 -AJMarketInventory#
+	 -scala/Predef.AJMarketInventory#
+offset: 326
+uri: file://<WORKSPACE>/AJMarketApp.scala
+text:
+```scala
 import scala.io.StdIn.readLine
 import scala.collection.mutable
 import Inventory.AJMarketInventory
@@ -8,7 +21,7 @@ import Sale.AJMarketSale
 object AJMarketApp {
   def main(args: Array[String]): Unit = {
     println("Welcome to AJMarket!")
-    val inventory = mutable.Map[Int, Bill.Product]()
+    val inventory = mutable.Map[Int, AJMarketInvent@@ory]()
     val stock = mutable.Map[Int, AJMarketStock]()
     val sales = mutable.ListBuffer[Bill.Sale]()
 
@@ -52,3 +65,10 @@ object AJMarketApp {
     println("Thank you for using AJMarket!")
   }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: `<none>`.
