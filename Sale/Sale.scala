@@ -10,7 +10,7 @@ object Sale {
       case Array(pid, qty) => (pid.toInt, qty.toInt)
     }
 
-    val billItems = entries.flatMap { case (pid, qty) =>
+    val billItems = entries.flatMap{ case (pid, qty) =>
       Inventory.inventory.get(pid).map { product =>
         if (product.quantity >= qty) {
           product.quantity -= qty
