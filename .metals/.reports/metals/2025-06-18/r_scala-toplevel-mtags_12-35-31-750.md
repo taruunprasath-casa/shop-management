@@ -1,6 +1,5 @@
-package ajmarketbill
-package ajmarketsale
-import ajmarketsalte.AJMarketSale
+error id: file://<HOME>/Project/Shop%20Management/AJMarketBill.scala:[44..49) in Input.VirtualFile("file://<HOME>/Project/Shop%20Management/AJMarketBill.scala", "package ajmarketbill
+package ajmarketsale.
 
 class AJMarketBill(sales: Seq[Sale], inventory: scala.collection.mutable.Map[Int, Product]) {
   def printBill(): Unit = {
@@ -25,4 +24,11 @@ class AJMarketBill(sales: Seq[Sale], inventory: scala.collection.mutable.Map[Int
     println(totalAmount)
     println("========")
   }
-}
+}")
+file://<HOME>/Project/Shop%20Management/file:<HOME>/Project/Shop%2520Management/AJMarketBill.scala
+file://<HOME>/Project/Shop%20Management/AJMarketBill.scala:4: error: expected identifier; obtained class
+class AJMarketBill(sales: Seq[Sale], inventory: scala.collection.mutable.Map[Int, Product]) {
+^
+#### Short summary: 
+
+expected identifier; obtained class
