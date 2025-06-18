@@ -9004,3 +9004,730 @@ WARNING: Unmatched cancel notification for request id 3421
 2025.06.18 13:49:17 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
 2025.06.18 13:49:17 WARN  there was 1 deprecation warning; re-run with -deprecation for details[0m
 2025.06.18 13:49:17 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
+Jun 18, 2025 1:51:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.18 13:53:59 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:54:00 INFO  time: compiled AJMarket_d5c0a6989e in 1.39s[0m
+2025.06.18 13:54:06 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:54:06 INFO  time: compiled AJMarket_d5c0a6989e in 0.42s[0m
+2025.06.18 13:54:44 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:54:44 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Stock/AJMarketStock.scala[0m
+2025.06.18 13:54:44 INFO  time: compiled AJMarket_d5c0a6989e in 0.42s[0m
+2025.06.18 13:56:49 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:56:49 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:49 INFO  time: compiled AJMarket_d5c0a6989e in 0.36s[0m
+2025.06.18 13:56:49 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:56:49 INFO  time: compiled AJMarket_d5c0a6989e in 0.34s[0m
+2025.06.18 13:56:49 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:50 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:52 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:56:52 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:52 INFO  time: compiled AJMarket_d5c0a6989e in 0.31s[0m
+2025.06.18 13:56:52 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:56:52 INFO  time: compiled AJMarket_d5c0a6989e in 0.28s[0m
+2025.06.18 13:56:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:56 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:56:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:56:56 INFO  time: compiled AJMarket_d5c0a6989e in 0.32s[0m
+2025.06.18 13:56:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:02 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:57:03 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:02 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
+2025.06.18 13:57:03 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:14 INFO  Created report: Optional[file:///home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala][0m
+2025.06.18 13:57:14 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/home/taruun-prasath-g-s/Project/AJMarket/.metals/.reports/metals-full/2025-06-18/r_empty-definition_(AJMarket_5fd5c0a6989e)_13-57-14-662.md")[0m
+2025.06.18 13:57:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:21 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:22 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:57:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:22 INFO  time: compiled AJMarket_d5c0a6989e in 0.23s[0m
+2025.06.18 13:57:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:28 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:57:28 INFO  time: compiled AJMarket_d5c0a6989e in 0.12s[0m
+2025.06.18 13:57:29 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:41 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:41 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:43 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:44 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:57:44 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 13:57:45 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:46 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:47 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:57:47 INFO  time: compiled AJMarket_d5c0a6989e in 89ms[0m
+2025.06.18 13:57:47 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:57:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:00 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:00 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:01 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:01 INFO  time: compiled AJMarket_d5c0a6989e in 86ms[0m
+2025.06.18 13:58:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:07 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:08 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:08 INFO  time: compiled AJMarket_d5c0a6989e in 88ms[0m
+2025.06.18 13:58:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:09 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:10 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:10 INFO  time: compiled AJMarket_d5c0a6989e in 87ms[0m
+2025.06.18 13:58:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:15 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:15 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 13:58:15 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:16 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:16 INFO  time: compiled AJMarket_d5c0a6989e in 86ms[0m
+2025.06.18 13:58:17 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:25 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:25 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 13:58:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:28 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:28 INFO  time: compiled AJMarket_d5c0a6989e in 89ms[0m
+2025.06.18 13:58:28 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:29 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:29 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:29 INFO  time: compiled AJMarket_d5c0a6989e in 0.21s[0m
+2025.06.18 13:58:30 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:37 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:38 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:38 INFO  time: compiled AJMarket_d5c0a6989e in 90ms[0m
+2025.06.18 13:58:38 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:47 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+2025.06.18 13:58:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:58:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.1s[0m
+2025.06.18 13:58:49 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:58:50 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 13:59:18 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 13:59:18 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 13:59:18 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:59:18 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
+2025.06.18 13:59:21 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 13:59:21 INFO  time: compiled AJMarket_d5c0a6989e in 0.29s[0m
+2025.06.18 13:59:21 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:59:21 INFO  time: compiled AJMarket_d5c0a6989e in 0.23s[0m
+2025.06.18 13:59:22 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 13:59:22 INFO  time: compiled AJMarket_d5c0a6989e in 0.29s[0m
+2025.06.18 13:59:22 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:59:22 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+2025.06.18 13:59:29 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 13:59:29 INFO  time: compiled AJMarket_d5c0a6989e in 0.31s[0m
+2025.06.18 13:59:34 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 13:59:34 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
+2025.06.18 13:59:34 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:59:34 INFO  time: compiled AJMarket_d5c0a6989e in 97ms[0m
+2025.06.18 13:59:42 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 13:59:42 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+2025.06.18 13:59:49 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 13:59:49 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 13:59:53 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 13:59:53 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 13:59:56 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 13:59:56 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:00:03 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:03 INFO  time: compiled AJMarket_d5c0a6989e in 0.16s[0m
+2025.06.18 14:00:06 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:06 INFO  time: compiled AJMarket_d5c0a6989e in 0.15s[0m
+2025.06.18 14:00:12 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:12 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:00:15 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:15 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:00:19 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:19 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:00:22 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:22 INFO  time: compiled AJMarket_d5c0a6989e in 0.22s[0m
+2025.06.18 14:00:26 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:26 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
+Jun 18, 2025 2:00:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4990
+2025.06.18 14:00:30 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:30 INFO  time: compiled AJMarket_d5c0a6989e in 0.31s[0m
+Jun 18, 2025 2:00:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5019
+2025.06.18 14:00:37 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:37 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:00:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:00:54 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:00:55 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:00:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:00:55 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+2025.06.18 14:00:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:07 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:07 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:07 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:01:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:15 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:16 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:17 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:17 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:17 INFO  time: compiled AJMarket_d5c0a6989e in 0.29s[0m
+2025.06.18 14:01:17 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:20 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:21 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:21 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:21 INFO  time: compiled AJMarket_d5c0a6989e in 0.34s[0m
+2025.06.18 14:01:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:25 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:26 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:26 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+2025.06.18 14:01:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:29 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:30 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:30 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:30 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:01:31 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:31 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:32 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:31 INFO  time: compiled AJMarket_d5c0a6989e in 0.29s[0m
+2025.06.18 14:01:32 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:38 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:41 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:41 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:41 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:01:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:01:52 INFO  file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala:24:11: stale bloop error: value handleInventory is not a member of Inventory
+          Inventory.handleInventory(inventoryInput)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+2025.06.18 14:01:52 INFO  file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala:29:11: stale bloop error: value handleStock is not a member of Stock
+          Stock.handleStock(stockInput)
+          ^^^^^^^^^^^^^^^^^[0m
+2025.06.18 14:01:52 INFO  file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala:34:21: stale bloop error: value parseSales is not a member of Sale
+          sales ++= Sale.parseSales(saleInput).map(sale => Bill.Sale(sale.productId, sale.quantity, sale.price))
+                    ^^^^^^^^^^^^^^^[0m
+2025.06.18 14:01:52 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:01:53 INFO  compiling ajmarket_d5c0a6989e (5 scala sources)[0m
+2025.06.18 14:01:53 INFO  time: compiled AJMarket_d5c0a6989e in 0.34s[0m
+2025.06.18 14:01:54 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:36:16 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:36:17 INFO  time: compiled AJMarket_d5c0a6989e in 1.42s[0m
+2025.06.18 14:36:22 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:36:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:36:22 INFO  time: compiled AJMarket_d5c0a6989e in 0.51s[0m
+2025.06.18 14:36:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:36:47 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:36:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:36:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:36:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.41s[0m
+2025.06.18 14:36:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:05 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:07 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:37:07 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:07 INFO  time: compiled AJMarket_d5c0a6989e in 0.3s[0m
+2025.06.18 14:37:07 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:13 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:37:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:37:13 INFO  time: compiled AJMarket_d5c0a6989e in 0.31s[0m
+2025.06.18 14:37:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:09 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:09 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:09 INFO  time: compiled AJMarket_d5c0a6989e in 0.33s[0m
+2025.06.18 14:38:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:12 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:12 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:38:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:18 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:18 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:19 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:19 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:19 INFO  time: compiled AJMarket_d5c0a6989e in 0.29s[0m
+2025.06.18 14:38:20 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:20 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:21 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:23 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:23 INFO  time: compiled AJMarket_d5c0a6989e in 0.2s[0m
+2025.06.18 14:38:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:26 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:26 INFO  time: compiled AJMarket_d5c0a6989e in 0.34s[0m
+2025.06.18 14:38:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:27 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:27 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:38:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:44 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:45 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:45 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:45 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:38:46 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:47 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:38:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:50 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+Jun 18, 2025 2:38:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5879
+2025.06.18 14:38:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:52 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:54 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:54 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:54 INFO  time: compiled AJMarket_d5c0a6989e in 0.47s[0m
+2025.06.18 14:38:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:57 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:38:57 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:57 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:38:58 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:58 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:59 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:38:59 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:00 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:00 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:01 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:01 INFO  time: compiled AJMarket_d5c0a6989e in 0.15s[0m
+2025.06.18 14:39:02 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:02 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:02 INFO  time: compiled AJMarket_d5c0a6989e in 0.1s[0m
+2025.06.18 14:39:02 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:03 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:03 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:05 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:05 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:06 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:06 INFO  time: compiled AJMarket_d5c0a6989e in 0.29s[0m
+2025.06.18 14:39:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:11 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:12 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:12 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+2025.06.18 14:39:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:15 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:15 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:15 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:16 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:17 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:16 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+2025.06.18 14:39:17 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+Jun 18, 2025 2:39:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6123
+2025.06.18 14:39:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:25 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:25 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+2025.06.18 14:39:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:27 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:39:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:39:27 INFO  time: compiled AJMarket_d5c0a6989e in 0.69s[0m
+2025.06.18 14:42:46 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:42:46 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:42:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:42:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+Jun 18, 2025 2:42:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6225
+Jun 18, 2025 2:42:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6241
+2025.06.18 14:42:59 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:42:59 INFO  time: compiled AJMarket_d5c0a6989e in 0.59s[0m
+2025.06.18 14:43:01 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:01 INFO  time: compiled AJMarket_d5c0a6989e in 0.41s[0m
+2025.06.18 14:43:04 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:04 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+2025.06.18 14:43:06 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:06 INFO  time: compiled AJMarket_d5c0a6989e in 0.35s[0m
+2025.06.18 14:43:08 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:08 INFO  time: compiled AJMarket_d5c0a6989e in 0.26s[0m
+Jun 18, 2025 2:43:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6388
+Jun 18, 2025 2:43:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6456
+2025.06.18 14:43:21 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:21 INFO  time: compiled AJMarket_d5c0a6989e in 0.42s[0m
+2025.06.18 14:43:22 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:22 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:43:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:28 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+Jun 18, 2025 2:43:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6500
+2025.06.18 14:43:28 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:28 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:30 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:30 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:30 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
+2025.06.18 14:43:30 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:32 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:33 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:33 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:33 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:43:34 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:36 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:37 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:37 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:37 INFO  time: compiled AJMarket_d5c0a6989e in 0.36s[0m
+2025.06.18 14:43:37 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:38 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:39 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:39 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:39 INFO  time: compiled AJMarket_d5c0a6989e in 0.3s[0m
+2025.06.18 14:43:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:46 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:46 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:46 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:43:47 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:43:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:43:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+2025.06.18 14:43:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:02 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+Jun 18, 2025 2:44:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6628
+2025.06.18 14:44:03 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:04 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:04 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:04 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:44:04 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:07 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:07 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:07 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:44:07 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:09 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:10 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:10 INFO  time: compiled AJMarket_d5c0a6989e in 0.12s[0m
+2025.06.18 14:44:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+Jun 18, 2025 2:44:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6700
+2025.06.18 14:44:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:13 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:13 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:44:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+Jun 18, 2025 2:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6756
+Jun 18, 2025 2:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6758
+Jun 18, 2025 2:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6759
+Jun 18, 2025 2:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6761
+Jun 18, 2025 2:44:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6772
+Jun 18, 2025 2:44:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6779
+Jun 18, 2025 2:44:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6782
+Jun 18, 2025 2:44:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6787
+Jun 18, 2025 2:44:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6790
+Jun 18, 2025 2:44:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6801
+2025.06.18 14:44:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:27 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:44:27 INFO  time: compiled AJMarket_d5c0a6989e in 0.37s[0m
+2025.06.18 14:44:33 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:33 INFO  time: compiled AJMarket_d5c0a6989e in 0.12s[0m
+2025.06.18 14:44:45 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:44:45 INFO  time: compiled AJMarket_d5c0a6989e in 0.2s[0m
+2025.06.18 14:44:50 INFO  time: compiled AJMarket_d5c0a6989e in 11ms[0m
+2025.06.18 14:45:00 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:45:00 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:45:01 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:45:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:45:01 INFO  time: compiled AJMarket_d5c0a6989e in 0.33s[0m
+2025.06.18 14:45:18 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:45:18 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+2025.06.18 14:45:52 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:45:52 INFO  time: compiled AJMarket_d5c0a6989e in 0.21s[0m
+2025.06.18 14:45:55 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:45:55 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:45:58 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:45:58 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:46:02 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:46:02 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:46:04 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:46:04 INFO  time: compiled AJMarket_d5c0a6989e in 0.28s[0m
+2025.06.18 14:46:45 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:46:45 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:46:49 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+Jun 18, 2025 2:48:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7186
+2025.06.18 14:48:38 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:48:38 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:38 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:48:39 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:39 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:41 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:42 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:48:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:42 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:48:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:44 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:45 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:48:45 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:45 INFO  time: compiled AJMarket_d5c0a6989e in 0.15s[0m
+2025.06.18 14:48:46 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:47 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:48 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:48:48 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:48 INFO  time: compiled AJMarket_d5c0a6989e in 0.2s[0m
+2025.06.18 14:48:49 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:52 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:54 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+Jun 18, 2025 2:48:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7346
+2025.06.18 14:48:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:56 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:48:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:48:56 INFO  time: compiled AJMarket_d5c0a6989e in 0.33s[0m
+2025.06.18 14:48:59 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:48:59 INFO  time: compiled AJMarket_d5c0a6989e in 0.37s[0m
+2025.06.18 14:49:01 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:49:01 INFO  time: compiled AJMarket_d5c0a6989e in 0.37s[0m
+2025.06.18 14:51:05 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Model/Product.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:51:05 WARN  No build server connected[0m
+2025.06.18 14:51:05 WARN  no build target for: /home/taruun-prasath-g-s/Project/AJMarket/Model/Product.scala[0m
+2025.06.18 14:51:05 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:51:05 INFO  time: compiled AJMarket_d5c0a6989e in 83ms[0m
+2025.06.18 14:51:05 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/Model/Product.scala[0m
+2025.06.18 14:51:12 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:51:12 INFO  time: compiled AJMarket_d5c0a6989e in 0.28s[0m
+2025.06.18 14:51:15 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:51:15 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:51:29 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:51:30 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:51:30 INFO  time: compiled AJMarket_d5c0a6989e in 0.18s[0m
+2025.06.18 14:51:34 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:51:34 INFO  time: compiled AJMarket_d5c0a6989e in 0.21s[0m
+2025.06.18 14:51:37 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:51:37 INFO  time: compiled AJMarket_d5c0a6989e in 0.23s[0m
+2025.06.18 14:52:04 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:52:04 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:04 INFO  time: compiled AJMarket_d5c0a6989e in 0.16s[0m
+2025.06.18 14:52:04 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:08 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:52:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:08 INFO  time: compiled AJMarket_d5c0a6989e in 0.31s[0m
+2025.06.18 14:52:08 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:09 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:11 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:52:11 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:11 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:52:11 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:14 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:52:14 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:52:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:14 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:23 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:52:23 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:52:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:29 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:32 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:34 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:52:34 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:34 INFO  time: compiled AJMarket_d5c0a6989e in 0.45s[0m
+2025.06.18 14:52:34 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:49 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:52:50 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 14:52:49 INFO  time: compiled AJMarket_d5c0a6989e in 0.43s[0m
+2025.06.18 14:52:50 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:54 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:55 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:52:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:55 INFO  time: compiled AJMarket_d5c0a6989e in 0.41s[0m
+2025.06.18 14:52:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:56 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:58 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:52:58 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:52:58 INFO  time: compiled AJMarket_d5c0a6989e in 0.32s[0m
+2025.06.18 14:52:58 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+Jun 18, 2025 2:53:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7780
+Jun 18, 2025 2:53:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7788
+2025.06.18 14:53:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:53:01 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:53:02 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:53:02 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:53:02 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:53:03 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Sale/AJMarketSale.scala[0m
+2025.06.18 14:53:13 INFO  compiling ajmarket_d5c0a6989e (3 scala sources)[0m
+2025.06.18 14:53:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:13 INFO  time: compiled AJMarket_d5c0a6989e in 0.59s[0m
+2025.06.18 14:53:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:19 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:20 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:21 INFO  compiling ajmarket_d5c0a6989e (3 scala sources)[0m
+2025.06.18 14:53:21 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:21 INFO  time: compiled AJMarket_d5c0a6989e in 0.46s[0m
+2025.06.18 14:53:22 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:23 INFO  compiling ajmarket_d5c0a6989e (3 scala sources)[0m
+2025.06.18 14:53:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:23 INFO  time: compiled AJMarket_d5c0a6989e in 0.41s[0m
+2025.06.18 14:53:23 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:24 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:25 INFO  compiling ajmarket_d5c0a6989e (3 scala sources)[0m
+2025.06.18 14:53:25 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:25 INFO  time: compiled AJMarket_d5c0a6989e in 0.41s[0m
+2025.06.18 14:53:26 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:29 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:30 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:31 INFO  compiling ajmarket_d5c0a6989e (3 scala sources)[0m
+2025.06.18 14:53:31 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Bill/AJMarketBill.scala[0m
+2025.06.18 14:53:31 INFO  time: compiled AJMarket_d5c0a6989e in 0.32s[0m
+2025.06.18 14:53:36 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:53:36 INFO  time: compiled AJMarket_d5c0a6989e in 0.44s[0m
+2025.06.18 14:53:57 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/Stock/AJMarketStock.scala[0m
+2025.06.18 14:53:59 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:53:59 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:54:02 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:02 INFO  time: compiled AJMarket_d5c0a6989e in 0.13s[0m
+2025.06.18 14:54:03 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:03 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:54:05 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:05 INFO  time: compiled AJMarket_d5c0a6989e in 0.15s[0m
+2025.06.18 14:54:07 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:07 INFO  time: compiled AJMarket_d5c0a6989e in 0.2s[0m
+2025.06.18 14:54:12 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:12 INFO  time: compiled AJMarket_d5c0a6989e in 0.24s[0m
+2025.06.18 14:54:18 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:18 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Stock/AJMarketStock.scala[0m
+2025.06.18 14:54:18 INFO  time: compiled AJMarket_d5c0a6989e in 0.21s[0m
+2025.06.18 14:54:25 WARN  Could not find semantic tokens for: file:///home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:27 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:27 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:27 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:54:28 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+Jun 18, 2025 2:54:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8162
+2025.06.18 14:54:36 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:37 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:38 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:39 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:39 INFO  time: compiled AJMarket_d5c0a6989e in 99ms[0m
+2025.06.18 14:54:39 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:40 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:41 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:42 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:44 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:44 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:44 INFO  time: compiled AJMarket_d5c0a6989e in 0.17s[0m
+2025.06.18 14:54:45 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:46 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:46 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:54:46 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:46 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:49 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:49 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:49 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:54:50 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:51 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:52 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:52 INFO  time: compiled AJMarket_d5c0a6989e in 0.19s[0m
+2025.06.18 14:54:53 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:55 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:56 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:54:56 INFO  time: compiled AJMarket_d5c0a6989e in 0.11s[0m
+2025.06.18 14:54:57 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:54:59 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:00 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:55:00 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:00 INFO  time: compiled AJMarket_d5c0a6989e in 0.13s[0m
+2025.06.18 14:55:00 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:05 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:06 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:55:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:06 INFO  time: compiled AJMarket_d5c0a6989e in 0.2s[0m
+2025.06.18 14:55:06 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:09 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:10 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:55:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:10 INFO  time: compiled AJMarket_d5c0a6989e in 0.14s[0m
+2025.06.18 14:55:10 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:11 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:12 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:13 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 14:55:13 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/AJMarketApp.scala[0m
+2025.06.18 14:55:13 INFO  time: compiled AJMarket_d5c0a6989e in 0.27s[0m
+2025.06.18 14:55:47 WARN  No build server connected[0m
+2025.06.18 14:55:47 INFO  Cancelling compilation on scala-cli server[0m
+2025.06.18 14:55:47 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:55:47 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Sale/Sale.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:55:47 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Sale/Sale.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:55:47 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Sale/Sale.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:55:47 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Sale/Sale.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:55:47 INFO  time: compiled AJMarket_d5c0a6989e in 0.55s[0m
+2025.06.18 14:55:47 WARN  no build target for: /home/taruun-prasath-g-s/Project/AJMarket/Sale/Sale.scala[0m
+2025.06.18 14:55:57 WARN  No build server connected[0m
+2025.06.18 14:55:57 INFO  Cancelling compilation on scala-cli server[0m
+2025.06.18 14:55:57 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:55:57 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Stock/Stock.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:55:58 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Stock/Stock.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:55:57 INFO  time: compiled AJMarket_d5c0a6989e in 0.23s[0m
+2025.06.18 14:55:58 WARN  no build target for: /home/taruun-prasath-g-s/Project/AJMarket/Stock/Stock.scala[0m
+2025.06.18 14:56:12 WARN  No build server connected[0m
+2025.06.18 14:56:12 INFO  Cancelling compilation on scala-cli server[0m
+2025.06.18 14:56:12 INFO  compiling ajmarket_d5c0a6989e (6 scala sources)[0m
+2025.06.18 14:56:12 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/Inventory.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:56:12 WARN  no build target for: /home/taruun-prasath-g-s/Project/AJMarket/Inventory/Inventory.scala[0m
+2025.06.18 14:56:12 INFO  time: compiled AJMarket_d5c0a6989e in 0.48s[0m
+2025.06.18 14:56:19 WARN  No build server connected[0m
+2025.06.18 14:56:19 INFO  Cancelling compilation on scala-cli server[0m
+2025.06.18 14:56:19 INFO  compiling ajmarket_d5c0a6989e (2 scala sources)[0m
+2025.06.18 14:56:19 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Bill/Bill.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:56:19 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Bill/Bill.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:56:19 INFO  no build target found for /home/taruun-prasath-g-s/Project/AJMarket/Bill/Bill.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 14:56:19 INFO  time: compiled AJMarket_d5c0a6989e in 0.34s[0m
+2025.06.18 14:56:19 WARN  no build target for: /home/taruun-prasath-g-s/Project/AJMarket/Bill/Bill.scala[0m

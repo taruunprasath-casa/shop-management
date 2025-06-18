@@ -1,54 +1,36 @@
+import Inventory.Inventory
+import Sale.Sale
+import Stock.Stock
 import scala.io.StdIn.readLine
-import scala.collection.mutable
-import Inventory.AJMarketInventory
-import Stock.AJMarketStock
-import Bill.AJMarketBill
-import Sale.AJMarketSale
 
-object AJMarketApp {
-  def main(args: Array[String]): Unit = {
-    println("Welcome to AJMarket!")
-    val inventory = mutable.Map[Int, Bill.Product]()
-    val stock = mutable.Map[Int, AJMarketStock]()
-    val sales = mutable.ListBuffer[Bill.Sale]()
+object AJMarketApp extends App {
+  var continue = true
 
-    var running = true
-    while (running) {
-      println("Enter command (INVENTORY, STOCK, SALE, BILL, EXIT):")
-      val input = readLine().trim.toUpperCase
+  while (continue) {
+    val input = readLine()
 
-      input match {
-        case "INVENTORY" =>
-          println("Enter inventory details (format: INVENTORY=>productId|productName|quantity|price):")
-          val inventoryInput = readLine()
-          AJMarketInventory.handleInventory(inventoryInput)
+    input match {
+      case s if s.startsWith("INVENTORY=>") =>
+        val data = s.stripPrefix("INVENTORY=>")
+        println(Inventory.updateInventory(data))
 
-        case "STOCK" =>
-          println("Enter stock details (format: STOCK=>productId|quantity):")
-          val stockInput = readLine()
-          AJMarketStock.handleStock(stockInput)
+      case s if s.startsWith("SALE=>") =>
+        val data = s.stripPrefix("SALE=>")
+        try {
+          println(Sale.processSale(data))
+        } catch {
+          case ex: RuntimeException => println(s"Error: ${ex.getMessage}")
+        }
 
-        case "SALE" =>
-          println("Enter sale details (format: SALE=>productId|quantity):")
-          val saleInput = readLine()
-          sales ++= AJMarketSale.parseSales(saleInput).map(sale => Bill.Sale(sale.productId, sale.quantity, sale.price))
+      case s if s.startsWith("STOCK=>") =>
+        val productId = s.stripPrefix("STOCK=>").toInt
+        println(Stock.checkStock(productId))
 
-        case "BILL" =>
-          if (sales.nonEmpty) {
-            val bill = new AJMarketBill(sales.toArray, inventory)
-            bill.printBill()
-            sales.clear()
-          } else {
-            println("No sales to generate bill.")
-          }
+      case "EXIT" =>
+        continue = false
 
-        case "EXIT" =>
-          running = false
-
-        case _ =>
-          println("Invalid command. Please try again.")
-      }
+      case _ =>
+        println("Invalid Command.")
     }
-    println("Thank you for using AJMarket!")
   }
 }
