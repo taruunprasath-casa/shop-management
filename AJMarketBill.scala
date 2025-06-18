@@ -1,0 +1,3 @@
+package ajmarketbill
+
+class AJMarketBill()
