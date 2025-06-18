@@ -1,7 +1,21 @@
+error id: file://<HOME>/Project/Shop%20Management/AJMarketBill.scala:scala/Some.
+file://<HOME>/Project/Shop%20Management/AJMarketBill.scala
+empty definition using pc, found symbol in pc: scala/Some.
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+	 -Some.
+	 -Some#
+	 -Some().
+	 -scala/Predef.Some.
+	 -scala/Predef.Some#
+	 -scala/Predef.Some().
+offset: 281
+uri: file://<HOME>/Project/Shop%20Management/AJMarketBill.scala
+text:
+```scala
 package ajmarketbill
-import ajmarketinventory.AJMarketInventory.Product
-import ajmarketsale.AJMarketSale.Sale
-import scala.collection.mutable
+
 
 class AJMarketBill(sales: Seq[AJMarketSale.Sale], inventory: mutable.Map[Int, Product]) {
   def printBill(): Unit = {
@@ -10,7 +24,7 @@ class AJMarketBill(sales: Seq[AJMarketSale.Sale], inventory: mutable.Map[Int, Pr
 
     for (sale <- sales) {
       inventory.get(sale.productId) match {
-        case Some(product) =>
+        case Some@@(product) =>
           if (product.quantity >= sale.quantity) {
             val netPrice = product.pricePerUnit * sale.quantity
             product.quantity -= sale.quantity
@@ -29,3 +43,10 @@ class AJMarketBill(sales: Seq[AJMarketSale.Sale], inventory: mutable.Map[Int, Pr
     println("========")
   }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: scala/Some.

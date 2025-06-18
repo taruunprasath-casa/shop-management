@@ -1,27 +1,15 @@
 package ajmarketinventory
+
 import scala.collection.mutable
 
 class AJMarketInventory(var productId: Int, var productName: String, var quantity: Int, var price: Double) {
-
   def displayProduct(): Unit = {
     println(s"Product ID: $productId | Name: $productName | Quantity: $quantity | Price: ₹$price")
   }
 
-  def validateProductId(): Boolean = {
-    if (productId > 0) true
-    else {
-      println("Invalid Product ID. It must be greater than 0.")
-      false
-    }
-  }
+  def validateProductId(): Boolean = productId > 0
 
-  def validateProductQuantity(): Boolean = {
-    if (quantity >= 0) true
-    else {
-      println("Invalid Quantity. It cannot be negative.")
-      false
-    }
-  }
+  def validateProductQuantity(): Boolean = quantity >= 0
 
   def updateProduct(newQuantity: Int, newPrice: Double): Unit = {
     if (validateProductId() && newQuantity >= 0 && newPrice >= 0) {
@@ -35,11 +23,11 @@ class AJMarketInventory(var productId: Int, var productName: String, var quantit
   }
 }
 
-
-
 object AJMarketInventory {
 
-  private val inventory: mutable.Map[Int, AJMarketInventory] = mutable.Map()
+  class Product(val productId: Int, val productName: String, var quantity: Int, val pricePerUnit: Double)
+
+  val inventory: mutable.Map[Int, Product] = mutable.Map()
 
   def handleInventory(input: String): Unit = {
     val parts = input.stripPrefix("INVENTORY=>").split('|')
@@ -56,9 +44,8 @@ object AJMarketInventory {
     inventory.get(productId) match {
       case Some(existingProduct) =>
         existingProduct.quantity += quantity
-        existingProduct.price = price
       case None =>
-        val product = new AJMarketInventory(productId, productName, quantity, price)
+        val product = new Product(productId, productName, quantity, price)
         inventory(productId) = product
     }
 
@@ -72,8 +59,9 @@ object AJMarketInventory {
     }
   }
 
-  
   def printAllInventory(): Unit = {
-    inventory.values.foreach(_.displayProduct())
+    inventory.values.foreach(p =>
+      println(s"Product ID: ${p.productId} | Name: ${p.productName} | Quantity: ${p.quantity} | Price: ₹${p.pricePerUnit}")
+    )
   }
 }

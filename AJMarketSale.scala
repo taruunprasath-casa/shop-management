@@ -15,6 +15,21 @@ class AJMarketSale(var productId: Int, var quantity: Int){
     var Array(id, qty) = item.split('|').map(_.toInt)
     AJMarketSale(id, qty)
     }
- }
-    
+ }   
 }
+
+case class Sale(productId: Int, quantity: Int)
+
+object AJMarketSale {
+
+  def parseSales(input: String): Seq[Sale] = {
+    input.stripPrefix("SALE=>")
+      .split(';')
+      .toList
+      .map { item =>
+        val Array(id, qty) = item.split('|').map(_.toInt)
+        Sale(id, qty)
+      }
+  }
+}
+
