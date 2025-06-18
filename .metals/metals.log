@@ -8973,3 +8973,34 @@ Jun 18, 2025 1:31:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 3165
 Jun 18, 2025 1:31:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 3166
+Jun 18, 2025 1:45:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3255
+2025.06.18 13:46:02 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:46:02 INFO  time: compiled AJMarket_d5c0a6989e in 0.36s[0m
+Jun 18, 2025 1:46:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3338
+Jun 18, 2025 1:46:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3361
+Jun 18, 2025 1:46:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3365
+Jun 18, 2025 1:46:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3401
+Jun 18, 2025 1:46:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3421
+2025.06.18 13:46:23 INFO  time: compiled AJMarket_d5c0a6989e in 13ms[0m
+2025.06.18 13:48:59 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:48:59 INFO  time: compiled AJMarket_d5c0a6989e in 0.32s[0m
+2025.06.18 13:49:02 INFO  time: compiled AJMarket_d5c0a6989e in 14ms[0m
+2025.06.18 13:49:07 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:49:07 INFO  time: compiled AJMarket_d5c0a6989e in 0.21s[0m
+2025.06.18 13:49:10 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:49:10 INFO  time: compiled AJMarket_d5c0a6989e in 0.54s[0m
+2025.06.18 13:49:10 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:49:10 WARN  there was 1 deprecation warning; re-run with -deprecation for details[0m
+2025.06.18 13:49:10 INFO  time: compiled AJMarket_d5c0a6989e in 0.39s[0m
+2025.06.18 13:49:17 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:49:17 WARN  Could not load snapshot text for /home/taruun-prasath-g-s/Project/AJMarket/Inventory/AJMarketInventory.scala[0m
+2025.06.18 13:49:17 INFO  time: compiled AJMarket_d5c0a6989e in 0.36s[0m
+2025.06.18 13:49:17 INFO  compiling ajmarket_d5c0a6989e (1 scala source)[0m
+2025.06.18 13:49:17 WARN  there was 1 deprecation warning; re-run with -deprecation for details[0m
+2025.06.18 13:49:17 INFO  time: compiled AJMarket_d5c0a6989e in 0.25s[0m
